@@ -1,2 +1,2 @@
 # exercise-sheet-5
-best case O(n*m)
+worst case O(n*m)
